@@ -19,5 +19,4 @@ reader.readText = (paths, callback) => {
       });
     });
   });
-
 };
