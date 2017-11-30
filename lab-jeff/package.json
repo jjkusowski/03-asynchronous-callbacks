@@ -1,0 +1,22 @@
+{
+  "name": "lab-jeff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest -i --coverage",
+    "lint": "eslint ."
+  },
+  "author": "Jeff Kusowski",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
